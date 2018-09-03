@@ -11,7 +11,7 @@ which build up to a common goal. If each working part does not provide dynamic s
 A very brief ( less than 300 words ) summary of the concept being proposed.
 Specify the use cases and/or motivations behind this proposal. 
 
-## Possible Soltions
+## Possible Solutions
 List at least one possible solution to the issue that this proposal aims to solve to start out the debate.
 
 ----------------------------------
